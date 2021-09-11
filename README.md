@@ -2,7 +2,7 @@
 
 ## I'm Alison Tavares!
 
-:computer: I'm System Developer!
+:computer: I'm Full Stack Developer!
 
 :house_with_garden: I’m from Brazil.
 
