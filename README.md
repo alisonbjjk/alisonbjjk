@@ -2,7 +2,7 @@
 
 ## I'm Alison Tavares!
 
-:computer: I'm Senior Full Stack Developer!
+:computer: I'm Senior Full Stack Developer! <a href='https://www.linkedin.com/in/alison-tavares-681226158/'>Linkedin</a>
 
 :house_with_garden: I’m from Brazil.
 
