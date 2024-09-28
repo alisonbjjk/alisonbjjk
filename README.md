@@ -40,4 +40,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonbjjk"/>
 
 
-![image](https://github.com/hyuko21/hyuko21/raw/output/github-contribution-grid-snake.svg)
+![image](https://github.com/hyuko21/hyuko21/blob/output/github-snake-dark.svg)
