@@ -42,8 +42,6 @@
                 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alisonbjjk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
                 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonbjjk&layout=compact&langs_count=7&theme=dracula"/>
                 <img height="180em" src="https://github.com/hyuko21/hyuko21/blob/output/github-snake-dark.svg"/>
+                <img height="180em" src="https://media1.tenor.com/m/JV8INozhBKkAAAAC/map-what.gif"/>
         </a>
 </div>
-<a>
-     <img height="180em" src="https://media1.tenor.com/m/JV8INozhBKkAAAAC/map-what.gif"/>
-</a>
