@@ -43,4 +43,4 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonbjjk&layout=compact&langs_count=7&theme=dracula"/>
   </a>
     <br/><br/>
-    <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=alisonbjjk&layout=compact&langs_count=7&theme=dracula](https://github.com/hyuko21/hyuko21/blob/output/github-snake-dark.svg)"/>
+    ![image](https://github.com/hyuko21/hyuko21/blob/output/github-snake-dark.svg)
