@@ -41,3 +41,10 @@
 
 
 ![image](https://github.com/hyuko21/hyuko21/blob/output/github-snake-dark.svg)
+
+  <br/><br/>
+  <a>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=alisonbjjk&theme=dracula&date_format=M%20j%5B%2C%20Y%5D"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alisonbjjk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonbjjk&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
