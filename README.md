@@ -38,11 +38,12 @@
 📊 Analytics 
 <div  align="center">
         <a>
-          <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=alisonbjjk&theme=dracula&date_format=M%20j%5B%2C%20Y%5D"/>
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alisonbjjk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonbjjk&layout=compact&langs_count=7&theme=dracula"/>
-        <img height="180em" src="https://github.com/hyuko21/hyuko21/blob/output/github-snake-dark.svg"/>
+                <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=alisonbjjk&theme=dracula&date_format=M%20j%5B%2C%20Y%5D"/>
+                <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alisonbjjk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+                <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonbjjk&layout=compact&langs_count=7&theme=dracula"/>
+                <img height="180em" src="https://github.com/hyuko21/hyuko21/blob/output/github-snake-dark.svg"/>
         </a>
- </div>
- <div class="tenor-gif-embed" data-postid="15716893" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/map-what-where-searching-gif-15716893">Map What GIF</a>from <a href="https://tenor.com/search/map-gifs">Map GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+</div>
+<a>
+     <img height="180em" src="https://tenor.com/pt-BR/view/map-what-where-searching-gif-15716893"/>
+</a>
